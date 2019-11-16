@@ -1,0 +1,37 @@
+{
+  "name": "world-map",
+  "version": "1.0.0",
+  "description": "University Data Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rupali Gupta <rupali1@ualberta.ca> (https://github.com/rupaliguptarg1)",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "jquery": "^3.3.1",
+    "next": "^5.1.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-chartjs-2": "^2.1.0",
+    "react-dom": "^16.2.0",
+    "react-simple-maps": "~0.12.0",
+    "redux-form": "^8.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^2.1.1",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1"
+  }
+}
